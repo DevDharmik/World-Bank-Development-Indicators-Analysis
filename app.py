@@ -20,7 +20,7 @@ st.title("🌍 World Bank Development Indicators (1960–2022)")
 
 # ------------------ Load data safely ------------------
 try:
-    df = pd.read_csv("/content/world_bank_development_indicators.csv")
+    df = pd.read_csv("world_bank_development_indicators.csv")
 except FileNotFoundError:
     st.error("world_bank_development_indicators.csv not found! Make sure it is in the root folder.")
     st.stop()
