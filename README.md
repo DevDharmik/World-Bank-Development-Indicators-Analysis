@@ -97,7 +97,3 @@ The analysis is implemented in **Python** using **Pandas, Matplotlib, and Seabor
 - GitHub repository with source code  
 
 ---
-
-## 📌 Notes
-
-This project was completed as part of a **Winter 2025/2026 Final Project** and is intended for both academic evaluation and data analytics portfolio purposes.
